@@ -1,0 +1,14 @@
+# Evitar versionar o ambiente virtual
+pricing_env/
+
+# Arquivos compilados do Python
+*.pyc
+
+# Cache do Python
+__pycache__/
+
+# Arquivos temporários do VSCode
+.vscode/
+
+# Arquivos do Jupyter Notebook checkpoints
+.ipynb_checkpoints/
